@@ -28,7 +28,7 @@ To create a **user-friendly stopwatch** that supports:
 
 🚀 Live Demo
 
-👉 ![View Project on GitHub Pages](https://DarshiniRaja.github.io/SCT_WD_02/)
+👉 [View Project on GitHub Pages](https://DarshiniRaja.github.io/SCT_WD_02/)
 
  📸 Screenshot
  

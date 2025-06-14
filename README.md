@@ -26,6 +26,10 @@ To create a **user-friendly stopwatch** that supports:
 - Automatically updates time every second
 - Beginner-friendly and easy to understand
 
+🚀 Live Demo
+
+![View Project on GitHub Pages](https://darshiniraja.github.io/SCT_WD_02)
+
  📸 Screenshot
  
 ![Screenshot ](https://github.com/user-attachments/assets/221adfd2-86b2-4231-b68a-4a1910594d55)
